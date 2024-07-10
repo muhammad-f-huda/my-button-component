@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/utils/my-tailwind-content.ts"],"sourcesContent":["\nexport function myTailwindContent() {\n  return './node_modules/my-button-component/dist/**/*.js';\n}\n"],"mappings":"AACO,SAASA,GAAoB,CAClC,MAAO,iDACT","names":["myTailwindContent"]}
